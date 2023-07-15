@@ -7,3 +7,4 @@
 "# Recommend-movies-with-Content-Based-Filtering" 
 "# Recommend-movies-with-Content-Based-Filtering" 
 "# YouTube-US-Trending-Sorting" 
+"# Encoding-PyCaret-Modeling" 
